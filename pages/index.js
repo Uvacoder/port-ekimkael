@@ -26,7 +26,7 @@ export default function Home() {
 						<div className="col-12 col-md-7">
 							<h3>Hello 👋🏾, I'm</h3>
 							<h1 className="w-title text-white">
-								<b>Ekim Kael.</b>
+								<b>Richard Kimble</b>
 							</h1>
 							<h3 className="text-secondary">UX Engineer • UX Developer.</h3>
 							<p className="w-lead text-white py-3">
